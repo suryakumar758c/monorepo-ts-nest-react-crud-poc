@@ -1,0 +1,10 @@
+
+>  NX  Generating nx-cloud:init
+
+
+ >  NX   getaddrinfo ENOTFOUND cloud.nx.app
+
+   Pass --verbose to see the stacktrace.
+
+
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
